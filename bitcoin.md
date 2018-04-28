@@ -20,7 +20,7 @@
 
 # 交易记录
 区块链
-![block_chain](https://github.com/albaniliu/markdowns/blob/master/images/bitcion_block_chain.png)
+![block_chain](https://github.com/albaniliu/markdowns/blob/master/images/bitcoin_block_chain.png)
 Tx: 交易记录
 Prev Hash: 前一个block的hash值
 Nonce：POW（Proof-Of-Work）计算出来的值
