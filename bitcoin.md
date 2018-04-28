@@ -65,8 +65,8 @@ block header没有交易数据，80 bytes。可以把block chain全部保存在�
 2. 用了数字签名保证币的所有权
 3. 在一个peer-to-peer网络中，使用POW来保证一致性，记录所有的交易记录，来防止一币多花
 
-
-
+# 参考文献
+https://bitcoincore.org/bitcoin.pdf
 
 
 
